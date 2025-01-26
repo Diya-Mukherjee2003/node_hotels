@@ -1,2 +1,7 @@
-node_modules/
+# Ignore unwanted directories
+Express/
+JSBasics/
+Mongoos/
+server&function/
+greeting-txt/
 .env
